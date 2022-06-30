@@ -1,0 +1,2 @@
+Prefix plugins/BAM2SAM/example
+Plugin BAM2SAM inputfile input.bam outputfile output.sam
